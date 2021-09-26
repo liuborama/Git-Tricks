@@ -1,2 +1,2 @@
-# learning-memorandum
-Learning memorandum
+# Tricks for Using Git 
+
